@@ -34,20 +34,3 @@ def getInfo() -> None:
 
 
 
-
-
-'''def filterWrose3(self.selectdata,numbers) ->list:
-    filtered_data = self.selectdata.tail(self.selectdata['co2']) 
-'''
-
-
-'''
-selectdata1 = getInfo()
-selectdata2 = selectdata1[selectdata1['year'] >= 1991]
-selectdata2 = selectdata2.reset_index(drop=True)
-print(selectdata2)
-selectdata2.to_csv("data2.csv")
-    #rowdata.info()
-    # Rest of your code...
-'''
-
